@@ -9,8 +9,8 @@ Simple Layout with beautiful design
 
 ## ScreenShot of Real Device
 
-<img src="https://user-images.githubusercontent.com/51056125/147874718-f137d775-2e69-455e-aa21-ce344aec4ab2.jpg" width="360" height="480">
-<img src="https://user-images.githubusercontent.com/51056125/147874723-482aea6d-63ab-4fd9-ac3a-6e896b53a242.jpg" width="360" height="480">
+<img src="https://user-images.githubusercontent.com/51056125/147874718-f137d775-2e69-455e-aa21-ce344aec4ab2.jpg" width="360" height="680">
+<img src="https://user-images.githubusercontent.com/51056125/147874723-482aea6d-63ab-4fd9-ac3a-6e896b53a242.jpg" width="360" height="680">
 
 ## Follow Me
  - Linkedin (https://www.linkedin.com/in/karanpatel2329)
