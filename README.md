@@ -13,5 +13,7 @@ Simple Layout with beautiful design
 <img src="https://user-images.githubusercontent.com/51056125/147874723-482aea6d-63ab-4fd9-ac3a-6e896b53a242.jpg" width="360" height="680">
 </p>
 ## Follow Me
- - Linkedin (https://www.linkedin.com/in/karanpatel2329)
+<p>
+ - Linkedin (https://www.linkedin.com/in/karanpatel2329)<br>
  - Instagram (https://www.instagram.com/karanpatel2329)
+<p>
